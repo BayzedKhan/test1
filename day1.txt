@@ -1,3 +1,8 @@
 1.we love bangladesh.
+<<<<<<< HEAD
 2.bangladesh is our motherland.
 3.we live in here
+=======
+bangladesh is our motherland.
+we live in here.
+>>>>>>> ab66ca3e47fd4ae49426e8bc5c1cf4cd52258b2b
